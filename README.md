@@ -2,4 +2,4 @@
 
 It's Just The UI!
 
-<img src="CircleAI.png">
+<img src="CircleAI-Wallpaper.png">
